@@ -1,5 +1,6 @@
 ### Hi 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/26gspipWnu59srmM0" width="150"/>
+  <img src="https://media.giphy.com/media/26gspipWnu59srmM0/giphy.gif" width="150"/>
 </div>
+
